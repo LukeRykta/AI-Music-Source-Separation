@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LukeRykta/AI-Music-Source-Separation.git/static/css/main.c06a8b55.css",
+    "main.js": "/LukeRykta/AI-Music-Source-Separation.git/static/js/main.09bac94b.js",
+    "static/js/787.796e8275.chunk.js": "/LukeRykta/AI-Music-Source-Separation.git/static/js/787.796e8275.chunk.js",
+    "static/media/abstract.png": "/LukeRykta/AI-Music-Source-Separation.git/static/media/abstract.10608d13dd82c566a8ca.png",
+    "static/media/purpose.png": "/LukeRykta/AI-Music-Source-Separation.git/static/media/purpose.ce1ea4d04800470e9fa6.png",
+    "static/media/introduction.png": "/LukeRykta/AI-Music-Source-Separation.git/static/media/introduction.497e1bf71d3efc417985.png",
+    "static/media/references.png": "/LukeRykta/AI-Music-Source-Separation.git/static/media/references.23aa3de5fb793d2a4a89.png",
+    "index.html": "/LukeRykta/AI-Music-Source-Separation.git/index.html",
+    "main.c06a8b55.css.map": "/LukeRykta/AI-Music-Source-Separation.git/static/css/main.c06a8b55.css.map",
+    "main.09bac94b.js.map": "/LukeRykta/AI-Music-Source-Separation.git/static/js/main.09bac94b.js.map",
+    "787.796e8275.chunk.js.map": "/LukeRykta/AI-Music-Source-Separation.git/static/js/787.796e8275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c06a8b55.css",
+    "static/js/main.09bac94b.js"
+  ]
+}
